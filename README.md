@@ -72,6 +72,16 @@
       </a>
     </td>
   </tr>
+    <tr>
+    <td>
+      SG90 Servo Motor
+    </td>
+    <td>
+      <a href= "https://www.amazon.ca/Servo-Helicopter-Airplane-Remote-Control/dp/B09L525KDT/ref=sr_1_20?dib=eyJ2IjoiMSJ9.mmYbOQKacOXB-bfgRKPMdUr3GPeQvPColeQhB506b9SS-bwjhikO01cjGvZ1J5mtafk5_SjB6argLsvB5YWE3A41ZopQX55nto1V4co0MIxNgyifp6_JEjP_an5nGuFL7m_eeSZxNPPc_RqUttuZoyZ53KuZ4cPGME9gtzeeAICqJJwB4Xw6b31We_SEIzOeTPLqtKdQqqzAvQxec955Ls2sDLmeZ7Br44X96vYJgbNwMPougKE7vt0BEI4T4cZIQOBDr67Oplag8yRTvzq4lNyjWvHN57IWMI9y3fiL98vI347f3nAPcSbkIDQnhuA91N42G_EbO0CRHXywCyCtzaVWnxj4Y7i_e-y1kFShM3VzjePaJR8RHzUyCCw211d7xna9Zo5kbzyedVpDE0YODOoNq6JlkNrJD7GIuZErD95qEYrQ_DVBab9N4YB6cWDd.S1f3XzoQQ8_1fNjkGaI8sj28tXLSdfYPJgr5vxOnxB8&dib_tag=se&keywords=sg90%2Bservo%2Bmotor&qid=1743198184&sr=8-20">
+        SG90 Servo Motor Micro Servo 9G Servo Motor
+      </a>
+    </td>
+  </tr>
   </table>
   </h5>
 </div>
