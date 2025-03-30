@@ -1,6 +1,6 @@
 <div id="badges" label>
-  <a href="https://www.linkedin.com/in/akuschhabra/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn">LinkedIn
+  <a href="https://www.arduino.cc" rel="nofollow noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino">
   </a> &nbsp; 
   <a href="">
   </a>
