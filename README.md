@@ -1,6 +1,6 @@
 <div id="badges" label>
-  <a href="https://www.arduino.cc" rel="nofollow noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino">
+  <a> 
+    <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino" width="48"> Built with Arduino.
   </a> &nbsp; 
   <a href="">
   </a>
