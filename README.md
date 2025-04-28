@@ -7,13 +7,11 @@
   <h1>
     Drone Payload Design Project
   </h2>  
-  <h3>
     This objective of this project was to prototype a payload design that is able to detect a target drone and disable it. 
     Following systems engineering principles, the project outline was developed following the definition of requirements, constraints, budget, and project timeline.
-  </h3>
-  <h3>
+  <h3></h3>
     The code provided in this project was used to integrate an Arduino Uno microcontroller with an ESP32-camera and a 433 MHz transmitter-receiver pair.
-  </h3>&nbsp
+  <h3></h3>&nbsp
   <h2>
     Components used to prototype payload:  
   </h2>
